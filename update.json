@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkFileName": "Abhedya-v1.0.apk",
-  "apkUrl": "https://sourceforge.net/projects/abhedya/files/Abhedya-v1.0.apk/download",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkFileName": "Abhedya-v1.1.apk",
+  "apkUrl": "https://github.com/IamCOD3X/Abhedya-Release/raw/refs/heads/main/Abhedya-v1.0.apk",
   "changelog": "Initial stable release",
   "force": false
 }
