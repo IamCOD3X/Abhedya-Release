@@ -1,0 +1,13 @@
+{
+  "1.0": [
+    "Initial stable release",
+    "Basic security layer added",
+    "Updater integrated"
+  ],
+  "1.1": [
+    "Improved response",
+    "Bug fixes",
+    "Performance improvements",
+    "Reduce TTL Timer and add Lock Screen protection"
+  ]
+}
