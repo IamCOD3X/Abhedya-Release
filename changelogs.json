@@ -9,5 +9,11 @@
     "Bug fixes",
     "Performance improvements",
     "Reduce TTL Timer and add Lock Screen protection"
+  ],
+  "1.2": [
+    "User Login Functionality",
+    "Bug fixes",
+    "Performance improvements",
+    "Auto Cloud Logging"
   ]
 }
